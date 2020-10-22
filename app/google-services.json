@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "688197826298",
+    "firebase_url": "https://money-flow-ad393.firebaseio.com",
+    "project_id": "money-flow-ad393",
+    "storage_bucket": "money-flow-ad393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688197826298:android:4db9cb24b485caa4d7fb43",
+        "android_client_info": {
+          "package_name": "com.example.moneyflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688197826298-d9cd5artp6qia3t8vt8k4rhpmopgs3rh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moneyflow",
+            "certificate_hash": "61661e1cbcbb62ed2761485deebbbb72861dbd4a"
+          }
+        },
+        {
+          "client_id": "688197826298-f70dneg5e5563c29f7j3jo4vhgjb6i4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN0pIUeLpaJAABMLdeQq9OwHF2YdH004w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688197826298-f70dneg5e5563c29f7j3jo4vhgjb6i4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
